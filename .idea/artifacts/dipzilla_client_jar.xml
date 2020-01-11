@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dipzilla-client:jar">
+    <output-path>$PROJECT_DIR$/release</output-path>
+    <root id="archive" name="dipzilla-client.jar">
+      <element id="module-output" name="DIPzilla-Client" />
+    </root>
+  </artifact>
+</component>
